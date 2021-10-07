@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true
+    }
+}
